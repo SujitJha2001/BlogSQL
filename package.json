@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/SujitJha2001/BlogSQL.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/SujitJha2001/BlogSQL/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/SujitJha2001/BlogSQL#readme",
   "description": ""
 }
