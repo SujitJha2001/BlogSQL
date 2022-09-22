@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/The-Unknown-Developer/blog.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/The-Unknown-Developer/blog/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/The-Unknown-Developer/blog#readme",
+  "homepage": "",
   "description": ""
 }
